@@ -1,4 +1,4 @@
-![Tetiana Vynograd](Tetiana-Vynograd/img/tanya.jpg)
+![Tetiana Vynograd](https://github.com/dvynograd/Tetiana-Vynograd/blob/master/img/tanya.jpg?raw=true)
 
 ## Social media
 
