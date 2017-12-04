@@ -1,4 +1,4 @@
-![Tetiana Vynograd](images/tanya.png)
+![Tetiana Vynograd](Tetiana-Vynograd/img/tanya.jpg)
 
 ## Social media
 
